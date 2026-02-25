@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my GitHub Profile!
+
+My name is Andrew Carnegie and I am an undergraduate student at Carnegie Mellon University studying Steel Manufacturing, while finalizing a Scottish History and bagpipes minor. I’m interested in steel and software engineering. This website is a collection of my latest projects, classes, and software engineering experiences.
+Feel free to explore and learn more about me!
+
 
 <!--
 **test-user-26/test-user-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
